@@ -17,11 +17,12 @@
    - The hitter (you) should be on the left side of the court, behind the 10 foot line 
 
    - The setter should be towards the middle of the net
-![Golf Swing](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/Screenshot%202022-09-07%20130438.jpg)  
+![Position](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/Screenshot%202022-09-07%20130438.jpg)  
    
-##### 2. Approach
+##### 2. Toss
 
-   - Place the Aida fabric between the top and bottom part of the embroidery hoop
+   - Toss the ball up to the setter so that the setter can contact the ball above his/her head
+![Toss](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/Screenshot%202022-09-07%20130438.jpg)  
 
    - Tighten the hoop by twisting the knob on the top of the hoop
 
@@ -29,8 +30,7 @@
 
      > ![hoop](hoop.jpg)
 
-3. Jump
-
+##### 3. Approach
    - Cut 12 inches of the embroidery thread
 
    - Separate 2 pieces of the thread
@@ -43,7 +43,7 @@
        > 
        > ![thread](thread.jpg)
 
-4. Arm Swing
+##### 4. AJump
 
 5. Vision
 
