@@ -44,7 +44,7 @@
 
 ##### 5. Vision
    - Once you are in the air, use your peripheral vision to see where the block is. This will let you know where you should hit the ball
-![vision](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/ezgif.com-gif-maker.gif)
+![vision](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/block.jpg)
 
 6. Contact
 
