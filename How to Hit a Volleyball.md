@@ -23,6 +23,7 @@
 
    - Toss the ball up to the setter so that the setter can contact the ball above his/her head
    - Wait for setter to set the ball
+
 ![Toss](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/Screenshot%202022-09-07%20131502.jpg)
 
 
