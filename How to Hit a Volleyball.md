@@ -34,17 +34,17 @@
    > Right handed hitters should finish their approach with their left foot and left handed hitters with their right foot.
    > Therefore, a right handed hitter's step order, using a 3 step approach would go left, right left.
 
+   - Once the ball is set and in the air, approach towards the ball
+
    - Your last two steps should be quick and close together. This will allow you to be explosive and jump your highest
 
-   - Create a small knot at the end of the thread
+![approach](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/ezgif.com-gif-maker.gif)
 
-       > There are 6 pieces of thread that make up the embroidery thread. Take 2 of the 6 pieces to use 
-       > 
-       > ![approach](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/ezgif.com-gif-maker.gif)
+##### 4. Jump
 
-##### 4. AJump
-
-5. Vision
+##### 5. Vision
+   - Once you are in the air, use your peripheral vision to see where the block is. This will let you know where you should hit the ball
+![vision](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/ezgif.com-gif-maker.gif)
 
 6. Contact
 
