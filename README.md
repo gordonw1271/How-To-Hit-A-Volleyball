@@ -12,14 +12,14 @@ When someone thinks about volleyball, jumping and hitting come to mind immediate
 
 ### Steps
 ---
-##### 1. Positioning
+#### 1. Positioning
    - The hitter (you) should be on the left side of the court, behind the 10 foot line 
       > Although there are many area where a player can hit from, we will focus on hitting from the "outside" position
 
    - The setter should be towards the middle of the net
 ![Position](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/Screenshot%202022-09-07%20130438.jpg)  
    
-##### 2. Toss
+#### 2. Toss
 
    - Toss the ball high to the setter so that the setter can contact the ball above his/her head
    - Wait for setter to set the ball
@@ -27,7 +27,7 @@ When someone thinks about volleyball, jumping and hitting come to mind immediate
 ![Toss](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/Screenshot%202022-09-07%20131502.jpg)
 
 
-##### 3. Approach
+#### 3. Approach
    - Begin your approach when the ball is in the setters hands
 
    - Many people use either a 3 or 4 step approach, it all comes down to preference
@@ -40,15 +40,15 @@ When someone thinks about volleyball, jumping and hitting come to mind immediate
 
 ![approach](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/ezgif.com-gif-maker.gif)
 
-##### 4. Jump
+#### 4. Jump
    - After the last two steps of your approach, explode and jump up
    - swing your arms to generate momentum in order to jump higher
 
-##### 5. Vision
+#### 5. Vision
    - Once you are in the air, use your peripheral vision to see where the block is. This will let you know where you should hit the ball
 ![vision](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/block.jpg)
 
-##### 6. Contact
+#### 6. Contact
    - Where you contact the ball will dictate where it will go
    - The two main areas you can swing are line and cross
       > To hit line, contact the ball on the top right and swing accross your body
@@ -56,7 +56,7 @@ When someone thinks about volleyball, jumping and hitting come to mind immediate
       
 ![contact](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/maxresdefault.jpg)
 
-##### 7. Celebrate
+#### 7. Celebrate
    - After you score a point, make sure to be loud and celebrate
    - Celebrating with teammates brings energy and can cause your team to perfrom better
 ![celebration](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/Loper-Celebration-2-Web.jpg)
