@@ -53,6 +53,7 @@ When someone thinks about volleyball, jumping and hitting come to mind immediate
    - The two main areas you can swing are line and cross
       > To hit line, contact the ball on the top right and swing accross your body
       > To hit cross, contact the ball on the top left
+   - Try to aim deep into the court. Hitting straight down may look good, but it makes it easier for the other team to block you.
       
 ![contact](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/maxresdefault.jpg)
 
