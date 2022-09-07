@@ -31,15 +31,15 @@
 
    - Many people use either a 3 or 4 step approach, it all comes down to preference
    > Right handed hitters should finish their approach with their left foot and left handed hitters with their right foot.
-   > For instance, a right handed hitter, using a 3 step approach would go left, right left
+   > Therefore, a right handed hitter's step order, using a 3 step approach would go left, right left.
 
-   - Insert the 2 pieces of thread into the needle
+   - Your last two steps should be quick and close together. This will allow you to be explosive and jump your highest
 
    - Create a small knot at the end of the thread
 
        > There are 6 pieces of thread that make up the embroidery thread. Take 2 of the 6 pieces to use 
        > 
-       > ![thread](thread.jpg)
+       > ![thread]([thread.jpg](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/USA%20Men%E2%80%99s%20Volleyball%20Hitting%20Lines%20-%20YouTube%20-%20Google%20Chrome%202022-09-07%2013-26-37_Trim%20(2).mp4))
 
 ##### 4. AJump
 
