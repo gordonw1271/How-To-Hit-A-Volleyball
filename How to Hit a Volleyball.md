@@ -1,11 +1,10 @@
 # How to Hit a Volleyball
 ---
+When someone thinks about volleyball, jumping and hitting come to mind immediately. Hitting is an integral part of volleyball as it allows both competing teams to earn points in exciting fashion. Although it may seem simple, there are a few thing you must know before you try it for yourself. 
 ### Materials
 ---
 
 - Volleyball
-
-   > There are different sizes of Aida. Size 14 is standard for beginners. Higher numbers will create a smaller pattern.
 
 - Volleyball net
 
@@ -51,26 +50,12 @@
 ##### 6. Contact
    - Where you contact the ball will dictate where it will go
    - The two main areas you can swing are line and cross
-    > To hit line, contact the ball on the top right and swing accross your body
-   > To hit cross, contact the ball on the top left
+      > To hit line, contact the ball on the top right and swing accross your body
+      > To hit cross, contact the ball on the top left
 ![contact](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/maxresdefault.jpg)
 
-7. Pull the needle down and through
+##### 7. Celebrate
+   - After you score a point, make sure to be loud and celebrate
+   - Celebrating with teammates brings energy and can cause your team to perfrom better
+![celebration](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/Loper-Celebration-2-Web.jpg)
 
-   > The stitch should be one diagonal
-   > 
-   > ![first](first.jpg)
-
-8. Insert the needle in the hole below the stitch you just made
-
-   > Continue steps 5 - 8 until the length is to satisfaction
-
-9. Pull the needle up and through
-
-10. Insert the needle in the hole diagonally to the left of the hole
-
-11. Pull the needle down and through.
-
-    > This should create the X shape.
-    > Continue steps 9 - 11 until you complete each X stitch
-    > ![second](second.jpg)
