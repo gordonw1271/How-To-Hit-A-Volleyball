@@ -41,12 +41,19 @@
 ![approach](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/ezgif.com-gif-maker.gif)
 
 ##### 4. Jump
+   - After the last two steps of your approach, explode and jump up
+   - swing your arms to generate momentum in order to jump higher
 
 ##### 5. Vision
    - Once you are in the air, use your peripheral vision to see where the block is. This will let you know where you should hit the ball
 ![vision](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/block.jpg)
 
-6. Contact
+##### 6. Contact
+   - Where you contact the ball will dictate where it will go
+   - The two main areas you can swing are line and cross
+    > To hit line, contact the ball on the top right and swing accross your body
+   > To hit cross, contact the ball on the top left
+![contact](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/maxresdefault.jpg)
 
 7. Pull the needle down and through
 
