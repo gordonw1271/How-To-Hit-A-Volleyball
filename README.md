@@ -43,6 +43,7 @@ When someone thinks about volleyball, jumping and hitting come to mind immediate
 #### 4. Jump
    - After the last two steps of your approach, explode and jump up
    - swing your arms to generate momentum in order to jump higher
+   - Make sure that you jump up and not forwards. You are not allowed to cross the centerline. Crossing the centerline may result in losing the point and possibly injuring another player.
 
 #### 5. Vision
    - Once you are in the air, use your peripheral vision to see where the block is. This will let you know where you should hit the ball
