@@ -39,7 +39,7 @@
 
        > There are 6 pieces of thread that make up the embroidery thread. Take 2 of the 6 pieces to use 
        > 
-       > ![thread](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/USA%20Men%E2%80%99s%20Volleyball%20Hitting%20Lines%20-%20YouTube%20-%20Google%20Chrome%202022-09-07%2013-26-37_Trim%20(2).mp4)
+       > ![approach](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/USA%20Men%E2%80%99s%20Volleyball%20Hitting%20Lines%20-%20YouTube%20-%20Google%20Chrome%202022-09-07%2013-26-37_Trim%20(2).mp4](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/ezgif.com-gif-maker.gif)
 
 ##### 4. AJump
 
