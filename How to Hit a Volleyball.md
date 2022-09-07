@@ -22,7 +22,7 @@
 ##### 2. Toss
 
    - Toss the ball up to the setter so that the setter can contact the ball above his/her head
-![Toss](Screenshot 2022-09-07 131502.jpg)  
+![Toss](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/Screenshot%202022-09-07%20131502.jpg)
 
    - Tighten the hoop by twisting the knob on the top of the hoop
 
