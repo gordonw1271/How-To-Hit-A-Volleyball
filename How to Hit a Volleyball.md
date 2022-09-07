@@ -22,18 +22,16 @@
 ##### 2. Toss
 
    - Toss the ball up to the setter so that the setter can contact the ball above his/her head
+   - Wait for setter to set the ball
 ![Toss](https://github.com/gordonw1271/How-To-Hit-A-Volleyball/blob/main/Screenshot%202022-09-07%20131502.jpg)
 
-   - Tighten the hoop by twisting the knob on the top of the hoop
-
-   - Tightly pull the Aida fabric
-
-     > ![hoop](hoop.jpg)
 
 ##### 3. Approach
-   - Cut 12 inches of the embroidery thread
+   - Begin your approach when the ball is in the setters hands
 
-   - Separate 2 pieces of the thread
+   - Many people use either a 3 or 4 step approach, it all comes down to preference
+   > Right handed hitters should finish their approach with their left foot and left handed hitters with their right foot.
+   > For instance, a right handed hitter, using a 3 step approach would go left, right left
 
    - Insert the 2 pieces of thread into the needle
 
